@@ -5,10 +5,10 @@ const ROWS = 3;
 const COLS = 3;
 
 const SYMBOLS_COUNT = { // Map creation.
-    A: 2,
-    B: 4,
-    C: 6,
-    D: 8
+    A: 3,
+    B: 5,
+    C: 7,
+    D: 9
 }
 
 const SYMBOL_VALUES = {
